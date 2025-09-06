@@ -12,8 +12,9 @@ Aprofundar conhecimentos em instâncias EC2 na AWS e explorar integração com a
 🗄️ RDS → Banco de dados relacional gerenciado  
 
  **Estrutura do repositório**  
-🖼️ Diagrama EBS.drawio.png → Diagrama exportado do drawio
-📄 README.md → Documentação do projeto  
+🖼️ Diagrama EBS.drawio.png → Diagrama de arquitetura exportado do drawio                                             
+📄 README.md → Documentação do projeto, incluindo objetivos, serviços utilizados e explicações sobre a arquitetura
+
 
 🏗️ **Fluxo da arquitetura**  
 1. Usuário envia o arquivo  
