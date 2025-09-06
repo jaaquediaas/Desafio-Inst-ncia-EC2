@@ -1,4 +1,4 @@
-# Desafio-Inst-ncia-EC2
+# Desafio-Instância-EC2
 🚀 **Bootcamp Santander Code Girls 2025**
 
 Repositório com diagrama de arquitetura AWS, desenvolvido durante o Bootcamp Code Girls 2025 e anotações gerais sobre o contéudo.
